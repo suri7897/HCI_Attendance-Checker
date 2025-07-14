@@ -7,7 +7,7 @@ From the inconvenient situation comes from current attendance checking system, w
 
 Contributor
 ---
-Team S.A.S
+### Team S.A.S
 
 * 마승훈 (ink0513@unist.ac.kr)
 * 최성우 (unistsw@unist.ac.kr)
